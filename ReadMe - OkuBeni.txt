@@ -4,5 +4,5 @@ EN
 - There are some missing parts, dont mind it.
 
 TR
-- Bazý testler yapýlabilmesi için Engin Demiroğ tarafýndan verilen bir ödev.
-- Bazý bölümer eksiktir, önemsemeyiniz.
+- Bazı testler yapılabilmesi için Engin Demiroğ tarafından verilen bir ödev.
+- Bazı bölümer eksiktir, önemsemeyiniz.
