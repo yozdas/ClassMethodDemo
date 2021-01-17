@@ -1,8 +1,8 @@
 
 EN
-- This solution created for some tests which is given as homework by Engin Demiroğ
+- This solution created for some tests which is given as homework by Engin DemiroÄŸ
 - There are some missing parts, dont mind it.
 
 TR
-- Bazı testler yapılabilmesi için Engin Demiroğ tarafından verilen bir ödev.
-- Bazı bölümer eksiktir, önemsemeyiniz.
+- BazÃ½ testler yapÃ½labilmesi iÃ§in Engin DemiroÄŸ tarafÃ½ndan verilen bir Ã¶dev.
+- BazÃ½ bÃ¶lÃ¼mer eksiktir, Ã¶nemsemeyiniz.
