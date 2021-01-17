@@ -7,7 +7,7 @@ namespace ClassMethodDemo
     public class MusteriManager
     {
         Musteri musteri = new Musteri() { };
-        
+
         public void Ekle(Musteri[] musteriler)
         {
             for (int i = 0; i < musteriler.Length; i++)
@@ -19,7 +19,6 @@ namespace ClassMethodDemo
 
             }
 
-            
         }
 
         public void Liste()
@@ -31,11 +30,9 @@ namespace ClassMethodDemo
 
         public void Sil(string no)
         {
-
             Console.WriteLine("Silindi");
-
         }
 
-       
+
     }
 }

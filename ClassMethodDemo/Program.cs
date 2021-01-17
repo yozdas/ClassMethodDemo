@@ -4,23 +4,17 @@ namespace ClassMethodDemo
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             Random rnd = new Random();
 
-
             char q;
-
             string No;
 
             Musteri musteri1 = new Musteri() { };
             MusteriManager musteriManager = new MusteriManager();
             try
             {
-
-
-
                 while (true)
                 {
                     Console.WriteLine(" -Müşteri Eklemek için 1 \n -Silmek için 2 \n -Listelemek 3 girin ve Enter \n -Çıkmak için q");
@@ -28,8 +22,6 @@ namespace ClassMethodDemo
 
                     if (q == '1')
                     {
-
-
                         Musteri musteri = new Musteri() { };
                         Console.WriteLine("Müşteri Adı: ");
                         musteri.Ad = Console.ReadLine().ToString();
@@ -45,14 +37,12 @@ namespace ClassMethodDemo
                         musteriManager.Ekle(musteriler);
                         musteriManager.Liste();
 
-
                     }
                     else if (q == '2')
                     {
                         Console.WriteLine("Silinecek Müşteri No:");
                         No = Console.ReadLine().ToString();
                         musteriManager.Sil(No);
-
 
                     }
                     else if (q == '3')
@@ -74,13 +64,10 @@ namespace ClassMethodDemo
             }
             catch (Exception ex)
             {
-
                 Console.WriteLine($"Hatalı işlem: {ex.Message}");
             }
 
-
         }
-
 
     }
 }
