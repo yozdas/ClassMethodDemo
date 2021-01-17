@@ -66,8 +66,6 @@ namespace ClassMethodDemo
             {
                 Console.WriteLine($"Hatalı işlem: {ex.Message}");
             }
-
         }
-
     }
 }
